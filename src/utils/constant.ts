@@ -1,0 +1,1 @@
+export const ICON_URL = chrome.runtime.getURL('assets/input-icon.svg');
