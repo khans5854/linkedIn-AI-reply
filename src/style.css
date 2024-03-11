@@ -3,3 +3,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.btn {
+    @apply flex items-center rounded-lg font-semibold h-fit gap-1 text-gray-500 text-2xl py-2 px-4;
+}
+
+.btn-secondary {
+    @apply bg-white border-2 border-gray-400;
+}
+
+.btn-secondary:hover {
+    @apply bg-gray-200;
+}
+
+.btn-primary {
+    @apply bg-primary text-white;
+}
+
+.btn-primary:hover {
+    @apply bg-primary-dark;
+}

@@ -1,6 +1,11 @@
-import cssText from "data-text:~style.css"
+import cssText from "data-text:~style.css";
 import type { PlasmoCSConfig } from "plasmo"
-import { App } from "~features"
+
+import { App } from "~features/AIReply"
+
+
+
+
 
 export const config: PlasmoCSConfig = {
   matches: ["https://*.linkedin.com/*"]
