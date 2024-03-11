@@ -16,11 +16,12 @@ See how to load the extension: https://docs.plasmo.com/framework/workflows/dev#l
 
 For further guidance, [visit our Documentation](https://docs.plasmo.com/).
 
-## Where to edit?
+## Preview of Linkedin AI Reply
 
-- The main code is located in src/content.tsx. By default, when you run the extension, it displays a static count button on the LinkedIn website. You need to replace it with your own code.
+[Screencast from 11-03-24 10:59:38 PM IST.webm](https://github.com/khans5854/linkedIn-AI-reply/assets/77222783/f59f223e-3f57-49ee-b984-8c11ac079ab9)
 
-![count btn on linkedin](count_btn_on_linkedin.png)
+
+
 
 ## Making production build
 
